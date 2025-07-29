@@ -3,4 +3,6 @@ aiohttp
 requests
 beautifulsoup4
 feedparser
+httpx
+
 
