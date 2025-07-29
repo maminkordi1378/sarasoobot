@@ -1,1 +1,7 @@
-pythonVersion: "3.10.13"
+services:
+  - type: web
+    name: sarasoobot
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python main.py"
+    pythonVersion: 3.10.12
