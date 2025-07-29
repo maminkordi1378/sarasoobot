@@ -1,4 +1,4 @@
-aiogram==3.1.1
+aiogram[fast,web,doc]==3.1.1
 aiohttp
 requests
 beautifulsoup4
